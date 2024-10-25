@@ -39,3 +39,6 @@ Please follow the below steps to run this project.
 ### References
 - [https://kaggle.com/dataset1](https://kaggle.com/dataset1)
 - [https://kaggle.com/dataset1](https://kaggle.com/dataset1)
+git remote add cmsys https://github.com/rcoecomphod/rcoeprj-61-943-994-group12.git
+git branch -M main
+git push -u cmsys main
